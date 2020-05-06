@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Gastón Gaiduk - Comunicador Audiovisual, Desarrollador Web - Málaga, España">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Facebook Open Graph meta -->
+    <meta property="og:title" content="Gastón Gaiduk">
+    <meta property="og:description" content="Comunicador Audiovisual, Desarrollador Web - Málaga, España">
+    <meta property="og:image" content="http://gaiduk.es/img/gaston.jpg">
+    <meta property="og:url" content="http://gaiduk.es">
+
+    <link rel="shortcut icon" href="img/favicon.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>Gastón Gaiduk</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <section class="main-container">
+        <div class="blocks">
+            <div class="block block--left">
+                <div class="block__inner">
+                    <div class="block-content">
+                        <h1 class="block__title">
+                            <span>Hola, soy Gastón.</span>
+                        </h1>
+                        <h1 class="block__title">
+                            <span>Comunicador <em>audiovisual</em> inclinado al desarrollo <em>web</em> en Málaga, España.</span>
+                        </h1>
+                        <div class="block__cta">
+                            <a href="mailto:gaston@gaiduk.es">
+                                <span>Pregúntame algo</span>
+                            </a>
+                        </div>
+                        <div class="block__social">
+                            <a class="block__social__link" target="_blank" href="https://www.linkedin.com/in/gaiduk/">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Layer 1"><path class="cls-1" d="M23.4 8.3A12 12 0 1 1 12 0a12 12 0 0 1 11.4 8.3zM12 1a11 11 0 1 0 10.4 7.6A11 11 0 0 0 12 1z"/><path class="cls-1" d="M8.2 10.2h2v6.3h-2zm1-3.2a1 1 0 1 1-1 1 1 1 0 0 1 1-1m2.2 3.2h2v.8a2 2 0 0 1 1.8-1c2 0 2.4 1.3 2.4 3v3.5h-2v-3c0-.8 0-1.8-1-1.8s-1.2.8-1.2 1.7v3h-2z"/></g></svg>
+                            </a>
+                            <a class="block__social__link" target="_blank" href="https://twitter.com/GGaiduk">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.98 23.98"><defs></defs><g id="Capa_2" data-name="Capa 2"><g id="Layer_1" data-name="Layer 1"><path class="cls-1" d="M23.4 8.3A12 12 0 1 1 12 0a12 12 0 0 1 11.4 8.3zM12 1a11 11 0 1 0 10.4 7.6A11 11 0 0 0 12 1z"/><path class="cls-2" d="M10.2 14.6a2.3 2.3 0 0 1-2-1.6 2.3 2.3 0 0 0 1 0 2.3 2.3 0 0 1-1.7-1 2.3 2.3 0 0 1-.3-1.3 2.3 2.3 0 0 0 1 .3 2.3 2.3 0 0 1-1-1.4A2.3 2.3 0 0 1 7.5 8a6.7 6.7 0 0 0 4.7 2.3V10a2.3 2.3 0 0 1 4-2h.2a4.7 4.7 0 0 0 1.3-.4 2.4 2.4 0 0 1-1 1.3 4.5 4.5 0 0 0 1.3-.5l-.3.4a4.6 4.6 0 0 1-.8.7 6.4 6.4 0 0 1 0 1 6.8 6.8 0 0 1-.7 2 6.7 6.7 0 0 1-1.3 2 6.2 6.2 0 0 1-3.2 1.7 7 7 0 0 1-1.3.2 6.6 6.6 0 0 1-3.7-1 4.7 4.7 0 0 0 2.3-.3 4.7 4.7 0 0 0 1.2-.7z"/></g></g></svg>
+                            </a>
+                            <a class="block__social__link" target="_blank" href="https://www.youtube.com/c/GastónGaiduk">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.98 23.98"><defs></defs><g id="Capa_2" data-name="Capa 2"><g id="Layer_1" data-name="Layer 1"><path class="cls-1" d="M23.4 8.3A12 12 0 1 1 12 0a12 12 0 0 1 11.4 8.3zM12 1a11 11 0 1 0 10.4 7.6A11 11 0 0 0 12 1z"/><path class="cls-2" d="M8 15.3a1.2 1.2 0 0 1-.8-.7c-.3-1-.4-4.8.2-5.6a1.3 1.3 0 0 1 1-.5 47.4 47.4 0 0 1 7.7 0 1.2 1.2 0 0 1 .8 1 12.2 12.2 0 0 1 0 5.2 1.2 1.2 0 0 1-.5.6c-.8.3-7.5.3-8.3 0zm2.8-1.8l3-1.6-3-1.8z"/></g></g></svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="block__bgi"></div>
+            </div>
+            <div class="block block--right">
+                <div class="block__inner">
+                    <div class="content content--about">
+                        <div class="content__tag-wrapper">
+                            <h2 class="content__tag">¿Quién?</h2>
+                        </div>
+                        <div class="content__inner">
+                            <p>
+                                Hola, mi nombre es Alexis Gastón Gaiduk y soy desarrollador web en Lleego Travel Market.
+                                Anteriormente estuve trabajando para empresas como Accenture o Umbro Iberia.
+                            </p>
+                            <p></p>
+                            <p>
+                                Tengo experiencia en 
+                                    <em>PHP</em> trabajando sólo o con 
+                                    <em>Symfony</em> 
+                                    <em>Laravel</em> como frameworks.
+                                Lenguajes como 
+                                    <em>JavaScript</em> o 
+                                    <em>Java</em> son pilares que he utilizado recientemente en mis últimos proyectos además de
+                                    <em>Angular +2</em> 
+                                    <em>Python</em> e incluso
+                                    <em>PL/SQL</em>.
+                                Cómodo trabajando con bases de datos 
+                                    <em>MySQL</em>
+                                    <em>PosgreSQL</em>
+                                con entornos corriendo bajo 
+                                    <em>AWS</em>.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="content content--web">
+                        <div class="content__tag-wrapper">
+                            <h2 class="content__tag">Web</h2>
+                        </div>
+                        <div class="content__inner">
+                            <div class="web">
+                                <h3 class="web__name"><a href="https://disepro.es/" target="_blank" rel="noopener noreferrer">Disepro</a></h3>
+                                <p class="web__time">2018</p>
+                                <p class="web__role">Desarrollo en Wordpress.</p>
+                            </div>
+                            <div class="web">
+                                <h3 class="web__name"><a href="http://madredemivida.com/" target="_blank" rel="noopener noreferrer">Producciones Madredemivida</a></h3>
+                                <p class="web__time">2016</p>
+                                <p class="web__role">Desarrollador Full-stack.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="content content--projects">
+                        <div class="content__tag-wrapper">
+                            <h2 class="content__tag">Audiovisual</h2>
+                        </div>
+                        <div class="content__inner">
+			    <div class="project">
+                                <h3 class="project__title"><a href="http://www.jamesonnotodofilmfest.com/film/hipo/" target="_blank" rel="noopener noreferrer">Hipo</a></h3>
+                                <p class="project__time">2018</p>
+                                <p class="project__description"><em>Cortometraje.</em> Postproducción de sonido.</p>
+                            </div>
+                            <div class="project">
+                                <h3 class="project__title"><a href="https://www.facebook.com/aparienciascorto/" target="_blank" rel="noopener noreferrer">Apariencias</a></h3>
+                                <p class="project__time">2017</p>
+                                <p class="project__description"><em>Cortometraje.</em> Sonido directo.</p>
+                            </div>
+                            <div class="project">
+                                <h3 class="project__title"><a href="https://www.facebook.com/CortoStrike/" target="_blank" rel="noopener noreferrer">Strike</a></h3>
+                                <p class="project__time">2017</p>
+                                <p class="project__description"><em>Cortometraje.</em> Ayudante de sonido.</p>
+                            </div>
+                            <div class="project">
+                                <h3 class="project__title"><a href="https://www.facebook.com/pizzaparatres/" target="_blank" rel="noopener noreferrer">Pizza para tres</a></h3>
+                                <p class="project__time">2016</p>
+                                <p class="project__description"><em>Cortometraje.</em> Script, Ayudante de cámara.</p>
+                            </div>
+                            <div class="project">
+                                <h3 class="project__title"><a href="https://vimeo.com/195881679" target="_blank" rel="noopener noreferrer">Los 5 Fantásticos</a></h3>
+                                <p class="project__time">2016</p>
+                                <p class="project__description"><em>Proyecto universitario.</em> Postproducción de sonido.</p>
+                            </div>
+                            <div class="project">
+                                <h3 class="project__title"><a href="https://www.facebook.com/resurgirdelabestiapt1/" target="_blank" rel="noopener noreferrer">El resurgir de la bestia: parte 1</a></h3>
+                                <p class="project__time">2016</p>
+                                <p class="project__description"><em>Cortometraje.</em> Making of.</p>
+                            </div>
+                            <div class="project">
+                                <h3 class="project__title"><a href="https://www.youtube.com/channel/UCpfAf3VRL7CTY8pje89z3Tg" target="_blank" rel="noopener noreferrer">Sin noticias de Gurb</a></h3>
+                                <p class="project__time">2016</p>
+                                <p class="project__description"><em>Proyecto universitario.</em> Making of.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.2/TweenMax.min.js"></script>
+    <script src="js/script.js"></script>
+    <?php include_once("analytics.php") ?>
+
+</body>
+
+</html>
